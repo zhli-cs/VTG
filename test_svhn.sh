@@ -1,0 +1,2 @@
+#!/bin/bash
+python main.py --train_data_type PoisonSVHN --test_data_type SVHN --config_path configs/svhn --num_of_workers 6 --version resnet18 --use_generator --generator_filepath /path/to/experiment/classwise/svhn_generator.pth

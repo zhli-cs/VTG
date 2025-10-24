@@ -1,0 +1,11 @@
+mlconfig==0.1.8
+nvitop
+numpy
+pandas
+timm
+openai-clip==1.0.1
+opencv-python
+scikit-learn
+torch==2.7.1
+torchattacks==3.5.1
+torchvision==0.22.1

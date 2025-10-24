@@ -1,0 +1,2 @@
+#!/bin/bash
+python main.py --train_data_type PoisonCIFAR10 --test_data_type CIFAR10 --config_path configs/cifar10 --num_of_workers 6 --version resnet18 --use_generator --generator_filepath /path/to/experiment/classwise/cifar10_generator.pth

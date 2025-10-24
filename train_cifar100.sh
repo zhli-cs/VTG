@@ -1,0 +1,2 @@
+#!/bin/bash
+python perturbation.py --train_step 10 --config_path configs/cifar100 --train_data_type CIFAR100 --test_data_type CIFAR100  --noise_shape 100 3 32 32 --use_subset --num_of_workers 6 --epoch 50 --num_steps 1 --universal_train_portion 0.5 
