@@ -37,9 +37,12 @@ bash test_cifar100.sh / bash test_svhn.sh
 This codebase is partially based on [EMN](https://github.com/HanxunH/Unlearnable-Examples)
 
 
-<!-- ---
 ## Citation
 If you find our paper/code useful, please cite the following paper:
 ```
-
-``` -->
+@inproceedings{liversatile,
+  title={Versatile Transferable Unlearnable Example Generator},
+  author={Li, Zhihao and Cai, Jiale and Xu, Gezheng and Zheng, Hao and Li, Qiuyue and Zhou, Fan and Yang, Shichun and Ling, Charles and Wang, Boyu},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
+}
+``` 
