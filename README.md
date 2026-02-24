@@ -40,9 +40,11 @@ This codebase is partially based on [EMN](https://github.com/HanxunH/Unlearnable
 ## Citation
 If you find our paper/code useful, please cite the following paper:
 ```
-@inproceedings{liversatile,
-  title={Versatile Transferable Unlearnable Example Generator},
-  author={Li, Zhihao and Cai, Jiale and Xu, Gezheng and Zheng, Hao and Li, Qiuyue and Zhou, Fan and Yang, Shichun and Ling, Charles and Wang, Boyu},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
+@inproceedings{
+li2025versatile,
+title={Versatile Transferable Unlearnable Example Generator},
+author={Zhihao Li and Jiale Cai and Gezheng Xu and Hao Zheng and Qiuyue Li and Fan Zhou and Shichun Yang and Charles Ling and Boyu Wang},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025}
 }
 ``` 
